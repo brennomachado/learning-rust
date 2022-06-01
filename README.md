@@ -13,3 +13,4 @@ You can see more about me on: <a href="https://github.com/brennomachado"><img sr
 --- 
 
  - Day 01: I read chapter 1, 2 and 3 of [the book]((https://doc.rust-lang.org/book/)), and I set up my vscode to code with Rust. I also watched videos (until section 2) about types, variables, consts, functions of Dmitri's and Alura's course. Basically a little introduction of the Rust and some syntax differences. 
+ - Day 02: Put in code some examples from [the book]((https://doc.rust-lang.org/book/))... chapters 2 (guessing game), 3.1, 3.2 (variables and data types).
